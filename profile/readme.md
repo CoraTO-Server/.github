@@ -26,17 +26,17 @@ We view information and game development like water--essential, life-giving, and
 
 **Management Structure:** Our hierarchy ensures clarity and fairness:
 
-**Game Master (GM):** Holds final responsibility for overall vision and integrity.
+        **Game Master (GM):** Holds final responsibility for overall vision and integrity.
 
-   **Admins:** Facilitate community decisions, confirm major changes.
+            **Admins:** Facilitate community decisions, confirm major changes.
 
-        **Moderators:** Immediate community engagement and swift moderation.
+                **Moderators:** Immediate community engagement and swift moderation.
 
-            **Programmers**: Coders who implement front end and back end changes
+                    **Programmers**: Coders who implement front end and back end changes
 
-            **Artists**: Create assets for the server and tools 
+                    **Artists**: Create assets for the server and tools 
 
-            **Testers+Advisors**: Test and give input on gameplay decisions
+                    **Testers+Advisors**: Test and give input on gameplay decisions
 
 
 **Decision-Making Approach:** We actively seek and respect community input, ensuring decisions reflect the collective desires of our members while preserving our core vision.
