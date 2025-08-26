@@ -67,8 +67,6 @@ Our success is measured by the smiles and contentment of our community members. 
 
 # Technical Standards & Ethical Commitments
 
-**Open Source Commitment:** Tools and resources we develop will be openly shared, empowering other communities to thrive alongside ours.
-
 **Security and Privacy:** We employ advanced encryption (MD5 & Argon2id) to protect your data and ensure privacy.
 
 **Ethical Stance on Redemption:** We believe in second chances. People deserve opportunities to grow, change, and contribute positively, provided they demonstrate sincerity and meaningful effort.
